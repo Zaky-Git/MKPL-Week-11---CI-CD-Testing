@@ -13,7 +13,7 @@ public class Counter {
 	}
 
 	public void increment() {
-		count++;
+		count = count + 4;
 	}
 
 	public void decrement() {
